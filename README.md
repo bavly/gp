@@ -1,5 +1,7 @@
 # Our Graduation project in field of Big data analytics and Mobile development 
 
+[![Join the chat at https://gitter.im/bavly/gp](https://badges.gitter.im/bavly/gp.svg)](https://gitter.im/bavly/gp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 Problem:
